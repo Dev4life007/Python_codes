@@ -95,5 +95,5 @@ def start():
     for i in words:
         if words == len(words) >= 2:
             words += 1
-            return
+            return words
 start()
